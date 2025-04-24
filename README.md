@@ -36,6 +36,6 @@ All queries are included in [`food_delivery_analysis.sql`](./food_delivery_analy
 ## 🙋‍♂️ About Me
 Hi, I'm Abhishek – a credit controller learning data analytics. I’ve completed SQL courses and am actively building a portfolio.
 
-Let’s connect on [LinkedIn](linkedin.com/in/abhishek-rai-5054001b7)!
+Let’s connect on [linkedin.com/in/abhishek-rai-5054001b7]!
 
 ## ⭐️ If you like this project, give it a star!
