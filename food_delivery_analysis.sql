@@ -15,4 +15,4 @@ WHERE RN <=3;
    ordered by the number of orders in descending order.
 3. Finally, we select the rows where the row number is <=3 to get the top 3 outlet for each Cuisine. 
    This way, we can get the top 3 (or any number) outlets for each Cuisine type without using the LIMIT or TOP functions.
-======================================================================================================================================================================================================================
+=============================================================================================================================
