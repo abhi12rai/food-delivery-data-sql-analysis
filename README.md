@@ -10,10 +10,9 @@ Analyze food delivery orders using SQL to generate actionable insights on:
 
 ## 📁 Dataset Overview
 Tables used:
-- `Orders`: Order details including Amount, Cuisine, PlacedAt, CustomerCode
-- `Restaurants`: Restaurant metadata like RestaurantID
+- `Orders`: Order details including Order_id, Customer_Code, Placed_At, Restaurant_id, Cuisine, Order_status,Promo_code_Name 
 
-(Sample/mock data structure is included in `/data` folder if applicable.)
+
 
 ## 📊 SQL Business Questions Answered
 
