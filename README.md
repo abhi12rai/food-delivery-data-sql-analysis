@@ -44,26 +44,26 @@ The project simulates real-world business problems faced by food delivery compan
 
 ## Problem Statements:
 
-Identify the Top 3 Outlets by Cuisine Type
-Find the top 3 restaurants for each cuisine based on the number of orders, without using LIMIT or TOP functions.
+1.Identify the Top 3 Outlets by Cuisine Type
+  Find the top 3 restaurants for each cuisine based on the number of orders, without using LIMIT or TOP functions.
 
-Calculate Daily New Customer Acquisition
-Determine how many new customers joined (placed their first order) each day since the launch date.
+2. Calculate Daily New Customer Acquisition
+   Determine how many new customers joined (placed their first order) each day since the launch date.
 
-Find Customers Acquired in January 2025 with Only One Order
-Count the customers who were acquired in January 2025 and placed only one order, without placing any further orders.
+3. Find Customers Acquired in January 2025 with Only One Order
+   Count the customers who were acquired in January 2025 and placed only one order, without placing any further orders.
 
-List Inactive Customers Acquired a Month Ago
-Find customers who were acquired one month ago with their first order using a promo code, and have not placed any orders in the last 7 days.
+4. List Inactive Customers Acquired a Month Ago
+   Find customers who were acquired one month ago with their first order using a promo code, and have not placed any orders in the last 7 days.
 
-Trigger Communication After Every Third Order
-Create a query that identifies customers who have just placed their 3rd, 6th, 9th (etc.) order, to trigger personalized communication.
+5. Trigger Communication After Every Third Order
+   Create a query that identifies customers who have just placed their 3rd, 6th, 9th (etc.) order, to trigger personalized communication.
 
-Identify Promo-Only Customers
-List customers who have placed more than one order, and all their orders were placed using a promo code only.
+6. Identify Promo-Only Customers
+   List customers who have placed more than one order, and all their orders were placed using a promo code only.
 
-Analyze Organic Customer Acquisition in January 2025
-Calculate what percentage of customers were organically acquired in January 2025 (placed their first order without any promo code).
+7. Analyze Organic Customer Acquisition in January 2025
+   Calculate what percentage of customers were organically acquired in January 2025 (placed their first order without any promo code).
 
 All queries are included in [`food_delivery_analysis.sql`](./food_delivery_analysis.sql).
 
