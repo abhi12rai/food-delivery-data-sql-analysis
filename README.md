@@ -84,6 +84,11 @@ Analytical problem solving
 Business insight generation
 
 
+## 📂 Project Structure
+- food_delivery_project.sql → Full SQL script
+- assets/ → Contains screenshots for each problem statement output
+
+
 ## 🙋‍♂️ About Me
 Hi, I'm Abhishek – a credit controller learning data analytics. I’ve completed SQL courses and am actively building a portfolio.
 
